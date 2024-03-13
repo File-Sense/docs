@@ -23,8 +23,8 @@ export default defineConfig({
           ],
         },
         {
-          label: "Give use your Feedback!",
-          link: "https://google.com",
+          label: "Give us your Feedback!",
+          link: "https://research.typeform.com/to/QuNcUl8c",
         },
       ],
     }),
