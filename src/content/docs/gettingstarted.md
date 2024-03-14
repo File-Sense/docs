@@ -5,6 +5,10 @@ description: A guide to getting started with File Sense.
 
 > File Sense is a tool for search images through Natural Language and semantic similarity. It is designed to be easy to use and to provide a simple interface for searching images and files.
 
+:::note[Keep In Mind]
+First Run may take some time to download necessary dependencies for the AI engine. Please be patient and wait for the process to complete. Once the process is complete, the File Sense will be ready to use.
+:::
+
 ### Start File Sense
 
 Upon opening File Sense, you will see the home screen. This is where you can choose search images or files, Index Management as well as show the status of the AI engine.
